@@ -1,0 +1,8 @@
+- Log
+	- graylog
+- Server
+	- ssh-git
+	- ssh-server-shortcut
+	- ssl-letsencrypt
+- Tools
+	- zsh-terminal
