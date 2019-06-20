@@ -1,3 +1,7 @@
+- Kafka
+	- spotify
+- Language
+	- strong-weak-static-dynamic-type
 - Log
 	- graylog
 - Server
