@@ -81,3 +81,11 @@ class LRUCache():
 		else:
 			node.value = value
 			self.move_to_end(node)
+
+	def get(self, key):
+		node = self.cache.get(key)
+		if node is None:
+			return None
+		else:
+			self.move_to_end(node)
+			return node.value
