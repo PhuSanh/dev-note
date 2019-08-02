@@ -8,5 +8,6 @@
 	- ssh-git
 	- ssh-server-shortcut
 	- ssl-letsencrypt
+	- nginx-docker
 - Tools
 	- zsh-terminal
