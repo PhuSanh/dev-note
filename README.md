@@ -11,3 +11,4 @@
 	- nginx-docker
 - Tools
 	- zsh-terminal
+	- test
