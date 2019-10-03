@@ -1,6 +1,7 @@
 - Kafka
 	- spotify
 - Language
+	- heap-stack
 	- strong-weak-static-dynamic-type
 - Log
 	- graylog
