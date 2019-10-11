@@ -43,5 +43,7 @@ ZSH_THEME="agnoster"
 Go to `https://github.com/powerline/fonts/tree/master/SourceCodePro`\
 Download some fonts and install
 
+Open iTerm2 -> Preferences -> Profiles -> Change Font
+
 
 https://github.com/robbyrussell/oh-my-zsh/issues/1906#issuecomment-252443982
