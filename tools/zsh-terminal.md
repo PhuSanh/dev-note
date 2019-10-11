@@ -3,6 +3,11 @@
 - `curl` or `wget` should be installed
 - `git` should be installed
 
+Install iterm2
+```
+brew cask install iterm2
+```
+
 Install zsh
 ```
 brew install zsh zsh-completions
