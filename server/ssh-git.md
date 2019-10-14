@@ -1,5 +1,17 @@
 # Multiple Git account management
 
+### 0. Prepare
+Check folder ~/.ssh exist?
+If not:
+```
+mkdir ~/.ssh
+chmod 700 ~/.ssh
+```
+Move into .ssh dir
+```
+cd ~/.ssh
+```
+
 ### 1. Generating SSH key
 Check to see if we have any existing SSH keys `ls -al ~/.ssh`\
 If `~/.ssh/id_rsa` not exist, generate:
