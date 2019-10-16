@@ -85,5 +85,6 @@ docker run --name my-nginx -v /Users/sanhdp/nginx/content:/usr/share/nginx/html 
 - After edit config file, reload nginx
 	+ docker exec my-nginx nginx -s reload (outside container)
 	+ nginx -s reload (inside container)
+- DO NOT use .dev for server_name (Google bought .dev for public), or if have to set .dev, use other browsers but Google Chrome
 
 - Config files must have postfix .conf
