@@ -2,17 +2,18 @@
 
 ### 1. Install tool 
 - `apache2-utils` (Debian, Ubuntu) 
-- or `httpd-tools` (RHEL/CentOS/Oracle Linux)
+- or `httpd-tools` (RHEL/CentOS/Oracle Linux)\
 Ex: `sudo apt-get install apache2-utils`
 
 ### 2. Create file
-> sudo htpasswd -c /etc/nginx/.htpasswd user1
+> sudo htpasswd -c /etc/nginx/.htpasswd user1\
+
 Press `Enter` and type password for user` at the prompts
 #### 2.1 Create additional user
 > sudo htpasswd /etc/nginx/.htpasswd user2
 #### 2.2 Check file 
-> cat /etc/nginx/.htpasswd
-> user1:$apr1$/woC1jnP$KAh0SsVn5qeSMjTtn0E9Q0
+> cat /etc/nginx/.htpasswd\
+user1:$apr1$/woC1jnP$KAh0SsVn5qeSMjTtn0E9Q0
 
 ### 3. Configuring NGINX
 Inside a location that you are going to protect
