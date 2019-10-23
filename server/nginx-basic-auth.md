@@ -6,9 +6,9 @@
 Ex: `sudo apt-get install apache2-utils`
 
 ### 2. Create file
-> sudo htpasswd -c /etc/nginx/.htpasswd user1\
+> sudo htpasswd -c /etc/nginx/.htpasswd user1
 
-Press `Enter` and type password for user` at the prompts
+Press `Enter` and type password for user1 at the prompts
 #### 2.1 Create additional user
 > sudo htpasswd /etc/nginx/.htpasswd user2
 #### 2.2 Check file 
