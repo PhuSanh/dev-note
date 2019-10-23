@@ -10,6 +10,7 @@
 	- ssh-server-shortcut
 	- ssl-letsencrypt
 	- nginx-docker
+	- nginx-basic-auth
 - Tools
 	- zsh-terminal
 	- test
