@@ -13,4 +13,5 @@
 	- nginx-basic-auth
 - Tools
 	- zsh-terminal
+	- iterm-jumpword
 	- test
