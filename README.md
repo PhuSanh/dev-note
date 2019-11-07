@@ -11,6 +11,9 @@
 	- ssl-letsencrypt
 	- nginx-docker
 	- nginx-basic-auth
+- System Design
+	- redissearch-order-customer
+	- LRU cache (least recently used) 
 - Tools
 	- zsh-terminal
 	- iterm-jumpword
