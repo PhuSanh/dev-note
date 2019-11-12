@@ -63,7 +63,6 @@ search|Le An-0965435679-lean@gmail.com|3
 ```
 search|Nguyen Van-098789879-nguyenvan@gmail.com|1
 search|Tran Van-012345678-tranvan@gmail.com|2
-search|Le
 ```
 - Loop and split (golang)
 ```
