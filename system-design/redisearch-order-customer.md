@@ -59,7 +59,7 @@ search|Tran Van-012345678-tranvan@gmail.com|2
 search|Le An-0965435679-lean@gmail.com|3
 ```
 - Receive search action with `q=van`
-- `KEYS \*van\*` will return 2 customers
+- `KEYS *van*` will return 2 customers
 ```
 search|Nguyen Van-098789879-nguyenvan@gmail.com|1
 search|Tran Van-012345678-tranvan@gmail.com|2
